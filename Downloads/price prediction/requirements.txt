@@ -1,0 +1,9 @@
+# requirements.txt
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
